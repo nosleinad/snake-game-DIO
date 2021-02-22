@@ -1,0 +1,18 @@
+body{
+
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-family: equilibrium,monospace;
+    text-transform: uppercase;
+    background-color: rgb(103, 124, 60);;
+    
+}
+#snake {
+    border: 5px solid;
+    border-color: black;
+}
